@@ -21,3 +21,7 @@
 ![image](https://github.com/user-attachments/assets/6e99ba99-613a-4f45-aa6d-d0e14663d285)
 
 * 📍dir -this attribute allows you to set the direction flow of your text whether to "LTR" for left-to-right or "RTL" for right-to-left
+
+# ARIA ROLES
+# WHAT ARE ARIA ROLES?
+* ARIA Roles is the inclusion of users of all types including those with disabilities ,allowing accessebility to websites regardless of different devices to view the content with and also maintaining your webpage with consistent labeling of the elements and their description.
