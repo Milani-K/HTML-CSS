@@ -35,7 +35,7 @@
 * HTML has tags that automatically closes themselves with their closing tags ,those that do not have closing tags to this day where tags created in the early years of Tech.
 
 # HTML NAVIGATION AND LINKS🔗📌
- * This how you create a basic link on HTML ,<a href="https://example.com">text to click</a>
+ * This how you create a basic link on HTML ,<a href="https://example.com">text to click</a
  * 📂HTML Navigation allows you to find path/routes to different folders according to the structure and direction of your folder,we use slashes as a symbol to access 
   folders through their paths.
  * 🚗For example if you have an image folder named IMAGES that consist of different folders/albums ,named "myself" ,"family" or "Vacation Pictures" and you wanna 
@@ -47,7 +47,7 @@
 # HTML Working with Graphics and Images
 
 # How to insert images on HTML?
-* Here is a syntax , <img src="image.jpg" alt="a girl wearing a dress"  width="" height="">
+* Here is a syntax  <img src="image.jpg" alt="a girl wearing a dress"  width="" height=""
 *The above syntax consists of all the four attributes needed to make up the syntax that allows us to insert images.
 
 # What are the four attritubes needed for the image syntax?
@@ -63,5 +63,11 @@
 *When the is nothing important about the image or the image is just undescribable.
 
 # Image Formats
-*
+*GIF
+*PNG
+*SVG
+*JPG
+
+# Responsiveness of Images
+*In the Image syntax there's a src attribute that allows you to add the image url that you wanna display,For a set of images that needs to be displayed according to different sizes like ,a Laptop Screen,Tablet screens and mobile phone screens you will need to add "set" after you have written src as in ( srcset) then the images will display according to the assigned screen.
 
