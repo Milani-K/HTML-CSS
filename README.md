@@ -43,3 +43,25 @@
   the family folder here's the structure , IMAGES/Vacation-pictures.By places the original folder before the slash indicates where the path starts and by placing the 
   other folder after the slash it indicates that the route now should end on this folder and access it.
  * 🛣If  the folder you wanted to access is inside the second folder which is "Vacation Pictures" you will just need to add a slash after "Vacation Pictures" and then add the name of the folder you wanna access and end there,so the deeper you wanna accesss you folder the longer or more slashes you add after every indicatin of where an actual folder has been made. e.g IMAGES/Vacation-pictures/Paris
+
+# HTML Working with Graphics and Images
+
+# How to insert images on HTML?
+* Here is a syntax , <img src="image.jpg" alt="a girl wearing a dress"  width="" height="">
+*The above syntax consists of all the four attributes needed to make up the syntax that allows us to insert images.
+
+# What are the four attritubes needed for the image syntax?
+* Source attribute -allows you to insert the image by writing exactly what the image is named after to be able to access it.
+* Alt attribute -it allows you to write a description of the image.
+* Width attribute -it allows you to control the resizing of an image 
+* Height attribute-it allows you to control the resizing of an image 
+
+# why do we have to add the Alt attribute when we can already see the image?
+ "Add an ALT attribute, which serves as a replacement for the image when it cannot be seen. For instance, people who are visually impaired may use a screen reader that reads the ALT text aloud to them."
+
+# When to leave the Alt Attribute blank?
+*When the is nothing important about the image or the image is just undescribable.
+
+# Image Formats
+*
+
