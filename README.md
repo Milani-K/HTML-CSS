@@ -71,3 +71,12 @@
 # Responsiveness of Images
 *In the Image syntax there's a src attribute that allows you to add the image url that you wanna display,For a set of images that needs to be displayed according to different sizes like ,a Laptop Screen,Tablet screens and mobile phone screens you will need to add "set" after you have written src as in ( srcset) then the images will display according to the assigned screen.
 
+# How to match caption with an image? 
+* That can be achieved by Working with the figure and figcaption elements
+* Syntax for that , <figure>add your image url here <figcaption>add your caption here</figcaption></figure>
+
+# Working with Media :
+# Working with Audio
+*Audio Element has both the opening tag and closing tag
+* The syntax is similar to the image syntax but this one is more mordern because it consists of a closing tag also.
+
