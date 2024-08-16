@@ -80,3 +80,23 @@
 *Audio Element has both the opening tag and closing tag
 * The syntax is similar to the image syntax but this one is more mordern because it consists of a closing tag also.
 
+# Working with Forms and Interactive Elements
+# Forms
+  # What is the form syntax?
+* Firstly the form syntax consists of a form element that has an opening and a closing tag ( <Form> Name</Form> )
+* Secondly there will be fields on the form ,we know the form element consists of an opening and closing tags inbetween those tags each field will be wrapped up with a label and below that there will be an input field  . Example of that would be having the first field as a name label  and below that would be the placeholder where you type in your input inside the input element.
+  
+* A label element also consists of an opening and a closing tag (<label></label>)
+* An input element only has an opening tag (<Input name="name">
+
+# what are forms for?
+
+* logging into websites :
+  Accessing online accounts securely with usernames and password.
+* Making purchases:
+  Buying products or services online through secured payement gateways.
+* Conducting searches:
+  Finding information online and using the search engines like Google or Bing.
+* Adding content:
+ creating and sharing online content like posts ,photos or videos on websites or any social media platform.
+
