@@ -1,4 +1,8 @@
 # HTML-CSS
+# What is HTML?
+* HTML is the structure that contains your conent and displays it on your browser.(chrome,bing ,Microsft Edge
+# WHAT DOES HTML STANDS FOR?
+ * HyperLink Markup Language
 
 
 # HTML ATTRIBUTES
