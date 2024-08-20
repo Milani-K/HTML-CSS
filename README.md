@@ -18,14 +18,14 @@
 Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with an opening tag and followed by the content you want to add and end with a  closing tag.
 
 # HTML ELEMENTS
-*Headings
-*Nav
-*Paragraphs
-*Links
-*Images
-*Videos
-*Footer
-*Body
+* Headings
+* Nav
+* Paragraphs
+* Links
+* Images
+* Videos
+* Footer
+* Body
 
 *Audio
 
