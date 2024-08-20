@@ -1,8 +1,21 @@
 # HTML-CSS
 # What is HTML?
-* HTML is the structure that contains your conent and displays it on your browser.(chrome,bing ,Microsft Edge
+* HTML is the structure that contains your conent and displays it on your browser.(chrome,bing ,Microsft Edge)
+  
 # WHAT DOES HTML STANDS FOR?
- * HyperLink Markup Language
+* HyperLink Markup Language
+
+  
+# What is HTML built with?
+* It is built by a block/lines of code called elements.
+* They are he components that build up the HTML structure.
+
+  
+# What are elements?
+*Elements are tages and attributes that makes up a syntax.
+
+# What are Tags?
+Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with an opening tag and followed by the content you want to add and end with a  closing tag
 
 
 # HTML ATTRIBUTES
