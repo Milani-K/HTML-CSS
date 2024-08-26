@@ -12,7 +12,7 @@
 
   
 # What are elements?
-*Elements are tages and attributes that makes up a syntax.
+* Elements are tages and attributes that makes up a syntax.
 
 # What are Tags?
 Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with an opening tag and followed by the content you want to add and end with a  closing tag.
@@ -92,10 +92,25 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
 *When the is nothing important about the image or the image is just undescribable.
 
 # Image Formats
-*GIF
-*PNG
-*SVG
-*JPG
+* GIF
+* PNG
+-Transparent
+-Can not be animated
+* SVG
+* JPG
+ -Can not be transparent
+
+
+
+
+
+
+
+
+
+
+  -Can not be animated
+  
 
 # Responsiveness of Images
 *In the Image syntax there's a src attribute that allows you to add the image url that you wanna display,For a set of images that needs to be displayed according to different sizes like ,a Laptop Screen,Tablet screens and mobile phone screens you will need to add "set" after you have written src as in ( srcset) then the images will display according to the assigned screen.
@@ -118,8 +133,7 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
 * A label element also consists of an opening and a closing tag (<label></label>)
 * An input element only has an opening tag (<Input name="name">
 
-# W                                                                                                                                                                
-                                        hat are forms for?
+# What are forms for?
 
 * logging into websites :
   Accessing online accounts securely with usernames and password.
