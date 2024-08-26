@@ -26,8 +26,7 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
 * Videos
 * Footer
 * Body
-
-*Audio
+* Audio
 
 
 # HTML ATTRIBUTES
@@ -77,7 +76,7 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
 
 # How to insert images on HTML?
 * Here is a syntax  <img src="image.jpg" alt="a girl wearing a dress"  width="" height=""
-*The above syntax consists of all the four attributes needed to make up the syntax that allows us to insert images.
+* The above syntax consists of all the four attributes needed to make up the syntax that allows us to insert images.
 
 # What are the four attritubes needed for the image syntax?
 * Source attribute -allows you to insert the image by writing exactly what the image is named after to be able to access it.
@@ -99,21 +98,11 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
 * SVG
 * JPG
  -Can not be transparent
-
-
-
-
-
-
-
-
-
-
-  -Can not be animated
+ -Can not be animated
   
 
 # Responsiveness of Images
-*In the Image syntax there's a src attribute that allows you to add the image url that you wanna display,For a set of images that needs to be displayed according to different sizes like ,a Laptop Screen,Tablet screens and mobile phone screens you will need to add "set" after you have written src as in ( srcset) then the images will display according to the assigned screen.
+* In the Image syntax there's a src attribute that allows you to add the image url that you wanna display,For a set of images that needs to be displayed according to different sizes like ,a Laptop Screen,Tablet screens and mobile phone screens you will need to add "set" after you have written src as in ( srcset) then the images will display according to the assigned screen.
 
 # How to match caption with an image? 
 * That can be achieved by Working with the figure and figcaption elements
@@ -152,7 +141,6 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
 * There's a lot you can do with CSS when it comes to styling how your HTML looks.
 
 # How is CSS structured?
-
 * CSS is structured by rules and box model
   
 # What are rules in CSS
