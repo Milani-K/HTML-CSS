@@ -129,3 +129,25 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
 * Adding content:
  creating and sharing online content like posts ,photos or videos on websites or any social media platform.
 
+# Let's Learn CSS
+
+# What is CSS?
+
+* CSS is the life and color of HTML,it styles the layouts and elements of HTML and you can use it to position content and change font type and colors.
+* There's a lot you can do with CSS when it comes to styling how your HTML looks.
+
+# How is CSS structured?
+
+* CSS is structured by rules and box model
+* 
+# What are rules in CSS
+* rules are selectors
+
+# What are selectors?
+* Selectors are used to select a specific element ,class or Id that you specifically want to style.
+* Selectors have a stucture that is later set as the rule that CSS will apply on HTML according to the selector's rule.
+* Selectors contain properties and properties are assigned to values.
+
+  
+* 
+
