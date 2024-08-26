@@ -118,7 +118,8 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
 * A label element also consists of an opening and a closing tag (<label></label>)
 * An input element only has an opening tag (<Input name="name">
 
-# what are forms for?
+# W                                                                                                                                                                
+                                        hat are forms for?
 
 * logging into websites :
   Accessing online accounts securely with usernames and password.
@@ -139,15 +140,17 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
 # How is CSS structured?
 
 * CSS is structured by rules and box model
-* 
+  
 # What are rules in CSS
 * rules are selectors
+* rules are set to be followed and done exactly how they have been set,same as how css rules apply
+* rules are selectors with declaration blocks
 
 # What are selectors?
 * Selectors are used to select a specific element ,class or Id that you specifically want to style.
-* Selectors have a stucture that is later set as the rule that CSS will apply on HTML according to the selector's rule.
+* Selectors have a structure called "declaration blocks" that is later set as the rule that CSS will apply on HTML according to the selector's rule.
 * Selectors contain properties and properties are assigned to values.
 
   
-* 
+  
 
