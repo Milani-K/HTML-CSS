@@ -156,6 +156,12 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
 # How to add background images on CSS?
 example , body{ background-image: url ('Images/photo.jpg') } ;
 
+# Understanding and applying size in CSS
+* Absolute and Relative are used to position and control the layout of elements.
+
+# Difference between Absolute and Relative properties?
+
+
   
   
 
