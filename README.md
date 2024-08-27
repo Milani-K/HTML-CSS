@@ -88,7 +88,7 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
  "Add an ALT attribute, which serves as a replacement for the image when it cannot be seen. For instance, people who are visually impaired may use a screen reader that reads the ALT text aloud to them."
 
 # When to leave the Alt Attribute blank?
-*When the is nothing important about the image or the image is just undescribable.
+* When the is nothing important about the image or the image is just undescribable.
 
 # Image Formats
 * GIF
@@ -152,6 +152,9 @@ Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with a
 * Selectors are used to select a specific element ,class or Id that you specifically want to style.
 * Selectors have a structure called "declaration blocks" that is later set as the rule that CSS will apply on HTML according to the selector's rule.
 * Selectors contain properties and properties are assigned to values.
+
+# How to add background images on CSS?
+example , body{ background-image: url ('Images/photo.jpg') } ;
 
   
   
