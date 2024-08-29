@@ -3,7 +3,7 @@
 * HTML is the structure that contains your conent and displays it on your browser.(chrome,bing ,Microsft Edge)
   
 # WHAT DOES HTML STANDS FOR?
-* HyperLink Markup Language
+* HyperText Markup Language
 
   
 # What is HTML built with?
