@@ -12,7 +12,7 @@
 
   
 # What are elements?
-* Elements are tages and attributes that makes up a syntax.
+* Elements are tags and attributes that makes up a syntax.
 
 # What are Tags?
 Tags are surrounded by angle brackets (< and> ) and usually come in pairs,with an opening tag and followed by the content you want to add and end with a  closing tag.
@@ -160,6 +160,7 @@ example , body{ background-image: url ('Images/photo.jpg') } ;
 * Absolute and Relative are used to position and control the layout of elements.
 
 # Difference between Absolute and Relative properties?
+Relative can be positioned within the element they are in .
 
 
   
